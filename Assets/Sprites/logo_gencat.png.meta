@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 433a1db8fc7c5fd42a00cadcf1b65e67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5802471164036735659
+    second: logo_gencat_0
+  - first:
+      213: -3034287047013998253
+    second: logo_gencat_1
+  - first:
+      213: 7900321476104441886
+    second: logo_gencat_2
+  - first:
+      213: 9166859815792304123
+    second: logo_gencat_3
+  - first:
+      213: 6065970773241424165
+    second: logo_gencat_4
+  - first:
+      213: 8627984585632967044
+    second: logo_gencat_5
+  - first:
+      213: -2182012434753761866
+    second: logo_gencat_6
+  - first:
+      213: -3248232175454515354
+    second: logo_gencat_7
+  - first:
+      213: -8764416946321729643
+    second: logo_gencat_8
+  - first:
+      213: 4193247011883579530
+    second: logo_gencat_9
+  - first:
+      213: -3252667153045636930
+    second: logo_gencat_10
+  - first:
+      213: 5904904189260533170
+    second: logo_gencat_11
+  - first:
+      213: 2912276308133947736
+    second: logo_gencat_12
+  - first:
+      213: 6091172051810123180
+    second: logo_gencat_13
+  - first:
+      213: -506683486076271491
+    second: logo_gencat_14
+  - first:
+      213: 4229965835977172679
+    second: logo_gencat_15
+  - first:
+      213: -2826494764752034385
+    second: logo_gencat_16
+  - first:
+      213: -8614948197202400505
+    second: logo_gencat_17
+  - first:
+      213: -1073839414774737603
+    second: logo_gencat_18
+  - first:
+      213: 2607406110629313728
+    second: logo_gencat_19
+  - first:
+      213: 5885948254172260195
+    second: logo_gencat_20
+  - first:
+      213: 4214919824307936977
+    second: logo_gencat_21
+  - first:
+      213: -3054335859036776682
+    second: logo_gencat_22
+  - first:
+      213: -1620876989271116996
+    second: logo_gencat_23
+  - first:
+      213: 6827356482772803030
+    second: logo_gencat_24
+  - first:
+      213: -1243572813338766025
+    second: logo_gencat_25
+  - first:
+      213: 2817447008523633836
+    second: logo_gencat_26
+  - first:
+      213: -1860469750241446217
+    second: logo_gencat_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logo_gencat_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 375
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d9428183b797fa0800000000000000
+      internalID: -5802471164036735659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 98
+        width: 369
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3516920d10c04e5d0800000000000000
+      internalID: -3034287047013998253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 375
+        width: 134
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10589a568493ad60800000000000000
+      internalID: 7900321476104441886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 318
+        width: 155
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff5a123f6a373f70800000000000000
+      internalID: 9166859815792304123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 322
+        width: 35
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529e4f48748ae2450800000000000000
+      internalID: 6065970773241424165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_5
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 456
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489e2328442ccb770800000000000000
+      internalID: 8627984585632967044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_6
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 321
+        width: 70
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd440b504fe7b1e0800000000000000
+      internalID: -2182012434753761866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_7
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 321
+        width: 71
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f0a0adb06fbe2d0800000000000000
+      internalID: -3248232175454515354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_8
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 319
+        width: 118
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597541329398e5680800000000000000
+      internalID: -8764416946321729643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_9
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 322
+        width: 112
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88f9c6c0f7613a30800000000000000
+      internalID: 4193247011883579530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_10
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 319
+        width: 118
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8322a25743cd2d0800000000000000
+      internalID: -3252667153045636930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_11
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 322
+        width: 73
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd0799131f62f150800000000000000
+      internalID: 5904904189260533170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_12
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 319
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8592c125fdb7a6820800000000000000
+      internalID: 2912276308133947736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_13
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 322
+        width: 35
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadfded65b0388450800000000000000
+      internalID: 6091172051810123180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_14
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 319
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d740edecd06e7f8f0800000000000000
+      internalID: -506683486076271491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 97
+        width: 134
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c62579348bd3ba30800000000000000
+      internalID: 4229965835977172679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 97
+        width: 134
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa52473acf546c8d0800000000000000
+      internalID: -2826494764752034385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_17
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 94
+        width: 120
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70beb53324e817880800000000000000
+      internalID: -8614948197202400505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_18
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 94
+        width: 117
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35d980edb4f811f0800000000000000
+      internalID: -1073839414774737603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_19
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 93
+        width: 148
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc3e310b0e5f2420800000000000000
+      internalID: 2607406110629313728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_20
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 94
+        width: 115
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367a44880c61fa150800000000000000
+      internalID: 5885948254172260195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_21
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 96
+        width: 71
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de50a4af376e7a30800000000000000
+      internalID: 4214919824307936977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_22
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 94
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617106108b1dc95d0800000000000000
+      internalID: -3054335859036776682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_23
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 97
+        width: 34
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33f3ed47fc7189e0800000000000000
+      internalID: -1620876989271116996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_24
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 94
+        width: 111
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd12a65c84afbe50800000000000000
+      internalID: 6827356482772803030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_25
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 97
+        width: 112
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7351c907d11fdbee0800000000000000
+      internalID: -1243572813338766025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_26
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 49
+        width: 123
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4c9847025991720800000000000000
+      internalID: 2817447008523633836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_gencat_27
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 94
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6bf7d8e984e26e0800000000000000
+      internalID: -1860469750241446217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      logo_gencat_0: -5802471164036735659
+      logo_gencat_1: -3034287047013998253
+      logo_gencat_10: -3252667153045636930
+      logo_gencat_11: 5904904189260533170
+      logo_gencat_12: 2912276308133947736
+      logo_gencat_13: 6091172051810123180
+      logo_gencat_14: -506683486076271491
+      logo_gencat_15: 4229965835977172679
+      logo_gencat_16: -2826494764752034385
+      logo_gencat_17: -8614948197202400505
+      logo_gencat_18: -1073839414774737603
+      logo_gencat_19: 2607406110629313728
+      logo_gencat_2: 7900321476104441886
+      logo_gencat_20: 5885948254172260195
+      logo_gencat_21: 4214919824307936977
+      logo_gencat_22: -3054335859036776682
+      logo_gencat_23: -1620876989271116996
+      logo_gencat_24: 6827356482772803030
+      logo_gencat_25: -1243572813338766025
+      logo_gencat_26: 2817447008523633836
+      logo_gencat_27: -1860469750241446217
+      logo_gencat_3: 9166859815792304123
+      logo_gencat_4: 6065970773241424165
+      logo_gencat_5: 8627984585632967044
+      logo_gencat_6: -2182012434753761866
+      logo_gencat_7: -3248232175454515354
+      logo_gencat_8: -8764416946321729643
+      logo_gencat_9: 4193247011883579530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
