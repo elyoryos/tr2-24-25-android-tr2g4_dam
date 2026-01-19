@@ -1,0 +1,11 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="ContenedorPrincipal" style="flex-grow: 1; background-color: rgb(205, 210, 217);">
+        <ui:Button text="BUSCAR ESCUELA" name="Btn_IrBuscador" style="-unity-font-style: bold; font-size: 17px; height: auto;" />
+        <ui:VisualElement name="Caja_TopEscuelas" style="flex-grow: 1; background-color: rgb(255, 255, 255); margin-top: 20px; margin-right: 20px; margin-bottom: 20px; margin-left: 20px;">
+            <ui:Label text="TOP ESCUELAS" name="Titulo_Esc" style="-unity-font-style: bold; font-size: 17px; margin-left: 20px;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="Caja_UltimosPI" style="flex-grow: 1; background-color: rgb(255, 255, 255); margin-top: 20px; margin-right: 20px; margin-bottom: 20px; margin-left: 20px;">
+            <ui:Label text="ULTIMOS PI" name="Titulo_UltimosPI" selectable="true" focusable="true" parse-escape-sequences="true" style="-unity-font-style: bold; font-size: 17px; margin-left: 20px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
