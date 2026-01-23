@@ -1,0 +1,12 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Cabezera" style="flex-grow: 0; height: auto; align-items: stretch; margin-top: 0; background-color: rgb(245, 245, 245); padding-left: 0; padding-right: 20px; flex-shrink: 0; justify-content: center;">
+        <ui:VisualElement name="ContenedorBuscador" style="flex-grow: 1; background-color: rgb(245, 245, 245); flex-direction: row; padding-top: 20px; padding-right: 0; padding-bottom: 20px; padding-left: 20px; margin-top: 25px;">
+            <ui:Button text="&lt; " name="Btn_Atras" parse-escape-sequences="true" style="background-color: rgb(224, 0, 0); border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; flex-grow: 0; width: auto; height: 45px; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; color: rgb(255, 255, 255);" />
+            <ui:TextField placeholder-text="Buscar escola" name="Input_Busqueda" style="font-size: 17px; flex-grow: 1; margin-left: 10px; width: auto; background-color: rgb(255, 255, 255); border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-right-color: rgb(204, 204, 204); border-top-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); color: rgb(51, 51, 51); height: auto; -unity-background-image-tint-color: rgb(255, 255, 255); flex-shrink: 1;" />
+            <ui:Button text="🔍" name="Btn_Buscar" style="background-color: rgb(224, 0, 0); color: rgb(255, 255, 255); border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; width: 50px; margin-left: 10px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="ContenedorBuscador" style="flex-grow: 1; background-color: rgb(245, 245, 245); flex-direction: row; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;">
+        <ui:ScrollView name="Lista_Resultados" style="flex-grow: 1; background-color: rgb(245, 245, 245);" />
+    </ui:VisualElement>
+</ui:UXML>

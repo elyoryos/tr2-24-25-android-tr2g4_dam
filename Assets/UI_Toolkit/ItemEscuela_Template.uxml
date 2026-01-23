@@ -1,0 +1,5 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; width: 100%; height: 60px; background-color: rgb(255, 255, 255); border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; border-left-color: rgb(224, 0, 0); border-right-color: rgb(224, 0, 0); border-top-color: rgb(224, 0, 0); border-bottom-color: rgb(224, 0, 0); border-left-width: 5px; margin-bottom: 10px; justify-content: center;">
+        <ui:Label text="Label" name="Lbl_Nombre" style="padding-left: 15px; white-space: pre-wrap;" />
+    </ui:VisualElement>
+</ui:UXML>
